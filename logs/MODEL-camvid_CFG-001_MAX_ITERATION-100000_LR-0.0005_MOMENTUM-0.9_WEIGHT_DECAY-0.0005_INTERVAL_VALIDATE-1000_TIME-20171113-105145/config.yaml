@@ -1,0 +1,5 @@
+interval_validate: 1000
+lr: 0.0005
+max_iteration: 100000
+momentum: 0.9
+weight_decay: 0.0005
